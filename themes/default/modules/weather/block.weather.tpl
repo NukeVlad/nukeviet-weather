@@ -4,7 +4,7 @@
 </script>
 <script type="text/javascript" src="{NV_BASE_SITEURL}modules/weather/js/weather.min.js"></script>
 <div>
-    <select id="loc" onchange="show_me();" style="width:120px">
+    <select id="loc" onchange="show_me();" style="width:120px"><option disabled>Choose city:</option>
     <!-- BEGIN: loop -->
         <option value="{ROW.location_code}"{ROW.selected}>{ROW.location_name}</option>
     <!-- END: loop -->
