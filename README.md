@@ -1,9 +1,9 @@
-Đây là một project nhỏ về lấy dữ liệu thời tiết trên Yahoo dành cho cộng đồng Nukeviet.
+Это небольшой проект для получения данных о погоде из Yahoo для Nukeviet.
 
-Module thời tiết lấy dữ liệu từ https://weather.yahoo.com/
+Модуль Weather извлекает данные из https://weather.yahoo.com/
 
-Để thêm các thành phố mới bạn chỉ việc vào đó tìm kiếm tên thành phố đó.
+Чтобы добавить новые города, просто найдите название города.
 
-Ví dụ tìm kiếm thời tiết tại Quảng Ninh: https://weather.yahoo.com/vietnam/quang-ninh/ha-long-1252437/
+Прогноз погоды в Куанг Нинь: https://weather.yahoo.com/vietnam/quang-ninh/ha-long-1252437/
 
-Các bạn lưu ý: 1252437 chính là phần Code hay Mã trong khi thêm mới thành phố vào danh sách module thời tiết trong admin
+Примечание: 1252437 - это код для добавлении нового города в список погодного модуля в админ панели модуля.
